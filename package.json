@@ -29,6 +29,8 @@
     "markdown"
   ],
   "dependencies": {
-    "alfy": "^0.7.0"
+    "alfy": "^0.7.0",
+    "alfred-notifier": "^0.2.3",
+    "j2m": "^1.1.0"
   }
 }
