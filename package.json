@@ -1,0 +1,34 @@
+{
+  "name": "alfred-jira",
+  "version": "0.0.1",
+  "description": "Alfred workflow to convert markdown in clipboard to jira markup",
+  "license": "MIT",
+  "repository": "colinf/alfred-jira",
+  "author": {
+    "name": "Colin Fallon",
+    "email": "colinf@mac.com",
+    "url": ""
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "files": [
+    "src",
+    "icon.png",
+    "info.plist"
+  ],
+  "keywords": [
+    "alfred",
+    "jira",
+    "confluence",
+    "markup",
+    "markdown"
+  ],
+  "dependencies": {
+    "alfy": "^0.7.0"
+  }
+}
