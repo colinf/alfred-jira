@@ -10,7 +10,7 @@
     "url": ""
   },
   "engines": {
-    "node": ">=4"
+    "node": ">=8.5"
   },
   "scripts": {
     "postinstall": "alfy-init",
