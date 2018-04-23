@@ -2,8 +2,8 @@
 
 # alfred-jira
 
-> [Alfred 3](https://www.alfredapp.com) Alfred workflow to convert
-> clipboard content between markdown and Jira markup
+> [Alfred 3](https://www.alfredapp.com) workflow to convert clipboard
+> text between markdown and Jira markup
 
 
 ## Prerequisites
@@ -15,17 +15,15 @@ You need [Node.js 8.5+](https://nodejs.org) and
 
 ## Usage
 
-### Copy the markdown or jira markup to clipboard
-
-- <kbd>cmd</kbd> + <kbd>C</kbd>
-
-### Convert
-
+- <kbd>cmd</kbd> + <kbd>C</kbd> to copy the markdown or jira markup to
+  the clipboard
 - Start to type `jira`
 - Select the task `Convert between markdown and jira`
 - <kbd>Return</kbd>
-- Start to enter `jira` to convert clipboard text to Jira format, or `markdown` to convert to markdown
-- <kbd>Return</kbd> <kbd>cmd</kbd> + <kbd>V</kbd> to paste the converted text
+- Start to enter `jira` to convert clipboard text to Jira format, or
+  `markdown` to convert to markdown
+- <kbd>Return</kbd>
+- <kbd>cmd</kbd> + <kbd>V</kbd> to paste the converted text
 
 ## Install
 
