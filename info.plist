@@ -79,9 +79,9 @@
 				<key>scriptfile</key>
 				<string></string>
 				<key>subtext</key>
-				<string>Convert between markdown and jira</string>
-				<key>title</key>
 				<string>jira&lt;space&gt; markdown or jira</string>
+				<key>title</key>
+				<string>Convert between markdown and jira</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
