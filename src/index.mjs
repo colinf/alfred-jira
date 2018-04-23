@@ -9,6 +9,6 @@ const formats = [{
   arg: 'markdown',
 }]
 
-const output = alfy.inputMatches(formats, 'arg');
-alfredNotifier();
-alfy.output(output);
+const output = alfy.inputMatches(formats, 'title')
+alfredNotifier()
+alfy.output(output)
