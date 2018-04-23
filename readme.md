@@ -17,13 +17,16 @@ You need [Node.js 8.5+](https://nodejs.org) and
 
 - <kbd>cmd</kbd> + <kbd>C</kbd> to copy the markdown or jira markup to
   the clipboard
-- Start to type `jira`
-- Select the task `Convert between markdown and jira`
+- Invoke Alfred, normally <kbd>cmd</kbd> + <kbd>space</kbd>
+- Type `c2`
+- Select the required task from or enter the letter m/j
+  - Convert jira to **m**arkdown
+  - Convert markdown to **j**ira
 - <kbd>Return</kbd>
 - Start to enter one of
   - `jira` to convert clipboard text to Jira format
   - `markdown` to convert to markdown
-- <kbd>Return</kbd>
+- When the text has been converted press <kbd>Return</kbd> to copy
 - <kbd>cmd</kbd> + <kbd>V</kbd> to paste the converted text
 
 ## Install
