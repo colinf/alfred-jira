@@ -5,9 +5,6 @@
 	<key>bundleid</key>
 	<string>com.colinfallon.alfredjira</string>
 	<key>connections</key>
-	<key>bundleid</key>
-	<string>com.colinfallon.alfredjira</string>
-	<key>connections</key>
 	<dict>
 		<key>BF8A0E7F-B801-46A9-8B71-17BE1ECE285B</key>
 		<array>
