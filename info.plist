@@ -5,7 +5,21 @@
 	<key>bundleid</key>
 	<string>com.colinfallon.alfredjira</string>
 	<key>connections</key>
-	<dict/>
+	<dict>
+		<key>C85FCC13-9DB4-4B15-A77C-46677DBB71A1</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2167D20F-5FCC-4CA7-BDE0-849EA588D0DC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
