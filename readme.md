@@ -15,43 +15,28 @@ You need [Node.js 8.5+](https://nodejs.org) and
 
 ## Usage
 
-### Copy markdown or jira markup to clipboard
+### Copy the markdown or jira markup to clipboard
 
 - <kbd>cmd</kbd> + <kbd>C</kbd>
 
-
 ### Convert
 
-- Type `jira`, <kbd>Space</kbd>, select JSON or XML
-- <kbd>Enter</kbd>
-- <kbd>Cmd</kbd> + <kbd>V</kbd> to your editor
-
-<img width="607" alt="json" src="https://cloud.githubusercontent.com/assets/1744446/16941092/fa874e36-4dc8-11e6-8226-7e1cc0b20351.png">
-<img width="607" alt="xml" src="https://cloud.githubusercontent.com/assets/1744446/16941091/fa855932-4dc8-11e6-8f40-a7aec38c5764.png">
-
-
-### Beautify and deploy clipboard data to [Gist](https://gist.github.com/)(anonymous & private)
-
-- Type `tidy`, <kbd>Space</kbd>, select JSON or XML
-- <kbd>Cmd</kbd> + <kbd>Enter</kbd>
-
-You can send code snippet in clipboard to anonymous gist and see the gist page is opened in your browser.
-
-![gist](https://cloud.githubusercontent.com/assets/1744446/16941324/5b7784d0-4dca-11e6-8d23-99a76df89c61.png)
-
+- Start to type `jira`
+- Select the task `Convert between markdown and jira`
+- <kbd>Return</kbd>
+- Start to enter `jira` to convert clipboard text to Jira format, or `markdown` to convert to markdown
+- <kbd>Return</kbd> <kbd>cmd</kbd> + <kbd>V</kbd> to paste the converted text
 
 ## Install
 
 ```
-$ npm i -g alfred-tidy
+$ npm i -g alfred-jira
 ```
 
-
-## Reference
-
-- [importre/alfred-workflows: 🔧my alfred workflows](https://goo.gl/GOFxDC)
-
+## Acknowledgements
+- Built using [Alfy](https://github.com/sindresorhus/alfy) to integrate Alfred with nodejs
+- Jira conversion uses [J2M](https://github.com/FokkeZB/J2M)
 
 ## License
 
-MIT © Jaewe Heo
+MIT © Colin Fallon
