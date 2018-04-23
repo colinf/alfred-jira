@@ -56,10 +56,8 @@
 				<false/>
 				<key>alfredfiltersresultsmatchmode</key>
 				<integer>0</integer>
-				<key>argumenttrimmode</key>
-				<integer>0</integer>
 				<key>argumenttype</key>
-				<integer>2</integer>
+				<integer>0</integer>
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>keyword</key>
@@ -81,9 +79,9 @@
 				<key>scriptfile</key>
 				<string></string>
 				<key>subtext</key>
-				<string></string>
+				<string>Convert between markdown and jira</string>
 				<key>title</key>
-				<string>Convert markdown to Jira</string>
+				<string>Type JIRA or MARKDOWN</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -97,9 +95,9 @@
 			<integer>2</integer>
 		</dict>
 	</array>
-	<key>readme</key>
-	<string></string>
-	<key>uidata</key>
+    <key>readme</key>
+    <string>See https://github.com/colinf/alfred-jira</string>
+    <key>uidata</key>
 	<dict>
 		<key>C85FCC13-9DB4-4B15-A77C-46677DBB71A1</key>
 		<dict>
