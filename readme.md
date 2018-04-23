@@ -20,8 +20,9 @@ You need [Node.js 8.5+](https://nodejs.org) and
 - Start to type `jira`
 - Select the task `Convert between markdown and jira`
 - <kbd>Return</kbd>
-- Start to enter `jira` to convert clipboard text to Jira format, or
-  `markdown` to convert to markdown
+- Start to enter one of
+  - `jira` to convert clipboard text to Jira format
+  - `markdown` to convert to markdown
 - <kbd>Return</kbd>
 - <kbd>cmd</kbd> + <kbd>V</kbd> to paste the converted text
 
