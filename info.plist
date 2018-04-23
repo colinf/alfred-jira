@@ -81,7 +81,7 @@
 				<key>subtext</key>
 				<string>Convert between markdown and jira</string>
 				<key>title</key>
-				<string>Type JIRA or MARKDOWN</string>
+				<string>jira&lt;space&gt; markdown or jira</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
