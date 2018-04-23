@@ -1,6 +1,6 @@
 {
   "name": "alfred-jira",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Alfred workflow to convert markdown in clipboard to jira markup",
   "license": "MIT",
   "repository": "colinf/alfred-jira",
