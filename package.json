@@ -1,6 +1,6 @@
 {
   "name": "alfred-jira",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "Alfred workflow to convert markdown in clipboard to jira markup",
   "license": "MIT",
   "repository": "colinf/alfred-jira",
@@ -10,7 +10,7 @@
     "url": ""
   },
   "engines": {
-    "node": ">=8.5"
+    "node": ">=12.16.3"
   },
   "scripts": {
     "postinstall": "alfy-init",
@@ -29,7 +29,7 @@
     "markdown"
   ],
   "dependencies": {
-    "alfy": "^0.7.0",
+    "alfy": "^0.9.1",
     "j2m": "^1.1.0"
   }
 }
