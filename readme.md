@@ -8,8 +8,8 @@
 
 ## Prerequisites
 
-You need [Node.js 8.5+](https://nodejs.org) and
-[Alfred 3](https://www.alfredapp.com) with the paid
+You need a recent version of [Node.js](https://nodejs.org) and
+[Alfred 4](https://www.alfredapp.com) with the paid
 [Powerpack](https://www.alfredapp.com/powerpack/) upgrade.
 
 
